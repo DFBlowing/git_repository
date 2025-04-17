@@ -2,3 +2,4 @@ hello, world!
 This is a merging test.
 Now in master.
 Now in merge_branch.
+Changes in github.
